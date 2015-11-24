@@ -1,0 +1,9 @@
+Project_hello.egg-info/PKG-INFO
+Project_hello.egg-info/SOURCES.txt
+Project_hello.egg-info/dependency_links.txt
+Project_hello.egg-info/entry_points.txt
+Project_hello.egg-info/requires.txt
+Project_hello.egg-info/top_level.txt
+Project_hello.egg-info/zip-safe
+project_hello/__init__.py
+project_hello/project_hello.py

@@ -1,0 +1,10 @@
+#!/home/rock/project_trac/project_environment/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'Trac==1.2.dev0','console_scripts','tracd'
+__requires__ = 'Trac==1.2.dev0'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('Trac==1.2.dev0', 'console_scripts', 'tracd')()
+    )

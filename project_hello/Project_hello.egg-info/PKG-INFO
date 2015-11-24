@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: Project-hello
+Version: 0.1.0
+Summary: GoldCap dfsdf Box Plugin.
+Home-page: http://www.spsoft-cn.com/
+Author: Charlie Tian
+Author-email: charlie.tian@spsoft-cn.com
+License: BSD
+Description: Gdsdasda.
+        
+Platform: UNKNOWN
+Requires: trac
